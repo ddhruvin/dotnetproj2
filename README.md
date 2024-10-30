@@ -27,6 +27,58 @@ Screenshots from the project including outputs:
 ![Screenshot (919)](https://github.com/user-attachments/assets/409aa5c9-bdb4-4124-8c3c-18d08d0e7c79)
 ![Screenshot (920)](https://github.com/user-attachments/assets/18144d4e-da2e-4770-a00a-cbb4ff4651bd)
 
+Certainly, here’s a breakdown of the terms used in the Employee Management System project:
+
+### Project Terms and Their Meanings
+
+1. **ASP.NET Core**:
+   - A cross-platform, high-performance web application framework developed by Microsoft. It allows developers to build modern, scalable, and secure web applications using the Model-View-Controller (MVC) pattern.
+
+2. **Entity Framework**:
+   - An Object-Relational Mapper (ORM) for .NET, simplifying data manipulation by allowing developers to work with data as objects, rather than through SQL queries. It provides tools for managing database migrations and seamless database integration.
+
+3. **MS SQL Server**:
+   - A relational database management system (RDBMS) developed by Microsoft, used to store and manage data in a structured format, using tables, relations, and constraints. It's highly optimized for enterprise applications.
+
+4. **CRUD Operations**:
+   - Stands for Create, Read, Update, and Delete operations, which are the four basic functions of persistent storage. In this project, CRUD operations allow users to manage employee data effectively.
+
+5. **Responsive Design**:
+   - A design approach that ensures the application displays and operates well on different devices and screen sizes. This project applies responsive design principles to create a user-friendly experience on desktops, tablets, and mobile devices.
+
+6. **Caching**:
+   - The practice of storing frequently accessed data in memory or temporary storage to reduce load times and improve application speed. Here, caching reduces API response times, enhancing performance.
+
+7. **API (Application Programming Interface)**:
+   - A set of rules that allows one application to interact with another. APIs enable the integration of external data or services into the web application, often retrieving data from other software.
+
+8. **Client-side Validation**:
+   - Validation performed on the user’s device before data is sent to the server. It helps improve user experience by instantly verifying input (e.g., checking required fields) and providing feedback without server interaction.
+
+9. **Server-side Validation**:
+   - Validation that takes place on the server after data is submitted by the client. It ensures that data remains valid and secure when processed on the back-end, which is crucial for preventing security issues.
+
+10. **MVC Architecture (Model-View-Controller)**:
+    - A software architectural pattern used for developing applications. It separates the application into three main components:
+       - **Model**: Represents the data and business logic.
+       - **View**: The user interface that displays data.
+       - **Controller**: Handles user input and updates the Model or View accordingly.
+
+11. **Layout Template**:
+    - A reusable structure in ASP.NET Core that standardizes the appearance of the application. In this project, the layout template includes common elements (like navigation) across all pages, creating a unified look.
+
+12. **Razor Views**:
+    - ASP.NET Core’s syntax for embedding server-side code within HTML. Razor Views allow developers to render dynamic content, such as employee data, directly in the front-end code.
+
+13. **Razor View Components**:
+    - Modular units of UI and logic in ASP.NET Core that allow developers to reuse code across different views. They help organize functionality and improve maintainability.
+
+14. **Tag Helpers**:
+    - Built-in or custom components in ASP.NET Core that streamline HTML creation. Tag Helpers enable easier data binding, validation, and styling, improving code readability and consistency.
+
+15. **Data Migrations**:
+    - The process of updating the database schema to match the application’s current data model. Entity Framework migrations handle these changes, allowing the database structure to evolve alongside the application.
+
 
 
 
